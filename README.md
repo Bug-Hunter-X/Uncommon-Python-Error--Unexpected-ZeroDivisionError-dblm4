@@ -1,0 +1,3 @@
+# Uncommon Python Error: Unexpected ZeroDivisionError
+
+This repository demonstrates a common error in Python that can sometimes be surprisingly difficult to debug: `ZeroDivisionError`. This error occurs when a number is divided by zero. The specific example highlights a situation where a function may encounter a division by zero in an unexpected manner.  The solution illustrates a robust way to handle this.
